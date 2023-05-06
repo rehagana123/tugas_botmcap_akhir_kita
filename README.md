@@ -1,8 +1,8 @@
-# Final Project Laravel batch 40
+# Final Project garuda Cyber Institute
 
 ## 1. Informasi Kelompok
 
-Nomor kelompok : 4
+Nomor kelompok : 6 
 
 Anggota:
 - Rehagana Prananta Sinulingga 2055201069
@@ -24,4 +24,8 @@ Role Admin: -
 untuk login sebagai admin
 email : kelompok@kami.com
 password : admin1234
+untuk login sebagai member
+email : kelompok@kamimember.com
+password : member1234
 
+atau bisa dengan mendaftar di menu register
