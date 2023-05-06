@@ -15,9 +15,10 @@ Anggota:
 ### ERD
 ![ERD Perpus](/public/ERD/erdperpuskami.png "ERD Perpus")
 
-## 2. Link video demo
-Role Guest: -
-Role Admin: -
+## 2. Link video demo Admin dan Member berserta codingan
+
+https://youtu.be/OY-fEaEG_og
+
 
 ## 3. Link Deploy
 <b>http://perpustkaankami.my.id/login</b>
